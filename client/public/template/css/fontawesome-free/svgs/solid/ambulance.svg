@@ -1,0 +1,6 @@
+.NavigateTo.vsix' succeeded. Hash: 6CFADE590F3BC7D65A3A9E7D239D960A1C5206BB92300A89A3FE8EF3C716DD17
+[308c:0017][2026-10-23T20:10:52] END: Downloading package "Microsoft.VisualStudio.Platform.NavigateTo,version=17.14.306.48394,productarch=neutral"
+[308c:0017][2026-10-23T20:10:52] BEGIN: Downloading package "Microsoft.VisualStudio.Devenv,version=17.14.37806.7,productarch=x64"
+[308c:0017][2026-10-23T20:10:52] Checking SHA256 for path: C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Devenv.7FC8CA34A4487630195F\payload.vsix
+[308c:0017][2026-10-23T20:10:52] SHA256 verification for 'C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Devenv.7FC8CA34A4487630195F\payload.vsix' succeeded. Hash: FAB0EAE269D527A3920AA20660AEF6BC67A103CBEBF0967E20FCD3656A5A2655
+[308c:0017][2026-10-23T20:10:52] Checking SHA256 for path: C:\Users\Aluno\AppData\Local\Tem

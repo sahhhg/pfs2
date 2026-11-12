@@ -1,0 +1,7 @@
+IN: Downloading package "Microsoft.VisualStudio.Connected,version=17.14.37806.2,productarch=neutral"
+[308c:0019][2026-10-23T20:10:51] Checking SHA256 for path: C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Connected.CC8B6E1380A4DF7A9754\payload.vsix
+[308c:0017][2026-10-23T20:10:52] SHA256 verification for 'C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Debugger.Remote.90E37105B745A70CB5EE\payload.vsix' succeeded. Hash: CB6ABAE15BE75E1490D1B10ACA276D083D910AA05DCA11612E775BEB9950B2CE
+[308c:0017][2026-10-23T20:10:52] Checking SHA256 for path: C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Debugger.Remote.90E37105B745A70CB5EE\payload.vsix
+[308c:0017][2026-10-23T20:10:52] SHA256 verification for 'C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Debugger.Remote.90E37105B745A70CB5EE\payload.vsix' succeeded. Hash: CB6ABAE15BE75E1490D1B10ACA276D083D910AA05DCA11612E775BEB9950B2CE
+[308c:0017][2026-10-23T20:10:52] Checking SHA256 for path: C:\Users\Aluno\AppData\Local\Temp\uvhvaifp\Microsoft.VisualStudio.Debugger.Remote.90E37105B745A70CB5EE\payload.vsix
+[308c:0017][2026-10-23T20:10:52] SHA256 verif
